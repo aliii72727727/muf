@@ -13,5 +13,17 @@ $mods = array (
     'version' => '1.0',
     'views' => 0,
   ),
+  'mod_698b9319badf11.82837588' => 
+  array (
+    'downloads' => 0,
+    'id' => 'mod_698b9319badf11.82837588',
+    'image' => 'https://testwebmuff.page.gd/images/mod_698b9319badf11.82837588.jpg',
+    'link' => 'https://testwebmuff.page.gd/files/mod_698b9319badf11.82837588.jpg',
+    'name' => 'jkm',
+    'number' => 2,
+    'timestamp' => 1770754843000,
+    'version' => '1.0',
+    'views' => 0,
+  ),
 );
 ?>
