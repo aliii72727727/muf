@@ -3,7 +3,7 @@ const zUrl = "https://wormateserkanconnect.github.io/new2";
 function _typeof(_0x4d0ax4) {
     return (_typeof = 'function' == typeof Symbol && 'symbol' == typeof Symbol.iterator ? function (_0x4d0ax4) {
         return typeof _0x4d0ax4
-    } : function (_0x4d0ax4) {
+    } : function (_0x4d0ax4) {       
         return _0x4d0ax4 && 'function' == typeof Symbol && _0x4d0ax4.constructor === Symbol && _0x4d0ax4 !== Symbol.prototype ? 'symbol' : typeof _0x4d0ax4
     })(_0x4d0ax4)
 }! function () {
